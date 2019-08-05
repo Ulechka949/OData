@@ -1,0 +1,7 @@
+C:\Users\prog\source\repos\TestOData\TestOData\bin\Debug\TestOData.exe.config
+C:\Users\prog\source\repos\TestOData\TestOData\bin\Debug\TestOData.exe
+C:\Users\prog\source\repos\TestOData\TestOData\bin\Debug\TestOData.pdb
+C:\Users\prog\source\repos\TestOData\TestOData\obj\Debug\TestOData.csprojAssemblyReference.cache
+C:\Users\prog\source\repos\TestOData\TestOData\obj\Debug\TestOData.csproj.CoreCompileInputs.cache
+C:\Users\prog\source\repos\TestOData\TestOData\obj\Debug\TestOData.exe
+C:\Users\prog\source\repos\TestOData\TestOData\obj\Debug\TestOData.pdb
